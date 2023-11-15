@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/Sr13syf/Education.png",
+      "title": "Good education",
+      "category": "education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Education is a lifelong journey of acquiring knowledge, skills, and values. It occurs through formal institutions, like schools, and informal avenues, such as self-directed learning. Education fosters personal growth, critical thinking, and societal development, empowering individuals to navigate a dynamic world. It encompasses academic, social, and practical dimensions to prepare individuals for diverse challenges.",
+      "price": "19.99"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/RNPRqFF/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Clothing is a form of personal expression and cultural identity, encompassing garments worn for protection, modesty, and style. It reflects individual taste, societal trends, and can convey a range of emotions and messages. From casual wear to formal attire, clothing serves both functional and aesthetic purposes, playing a significant role in shaping personal and social impressions.",
+      "price": "29.99"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/Sr13syf/Education.png",
+      "title": "Good education",
+      "category": "education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Education is a lifelong journey of acquiring knowledge, skills, and values. It occurs through formal institutions, like schools, and informal avenues, such as self-directed learning. Education fosters personal growth, critical thinking, and societal development, empowering individuals to navigate a dynamic world. It encompasses academic, social, and practical dimensions to prepare individuals for diverse challenges.",
+      "price": "24.99"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/PYtX33R/Health.png",
+      "title": "Clean water for children",
+      "category": "health",
+      "category_bg": "#0052FF26",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Health is a state of physical, mental, and social well-being, not merely the absence of disease. It involves maintaining a balanced lifestyle, proper nutrition, and regular exercise. Mental health is integral, encompassing emotional resilience and psychological well-being. Overall, a holistic approach to health contributes to a fulfilling and active life.",
+      "price": "39.99"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/d6wxnfw/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Food is essential for sustenance, providing nutrients and energy for the body. It comes in diverse forms, reflecting cultural, regional, and personal preferences. Nutrient-rich choices contribute to overall well-being, supporting physical and mental health. The enjoyment of food is a universal aspect of human experience, bringing people together in shared rituals and celebrations.",
+      "price": "49.99"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/Sr13syf/Education.png",
+      "title": "Good education",
+      "category": "education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Education is a lifelong journey of acquiring knowledge, skills, and values. It occurs through formal institutions, like schools, and informal avenues, such as self-directed learning. Education fosters personal growth, critical thinking, and societal development, empowering individuals to navigate a dynamic world. It encompasses academic, social, and practical dimensions to prepare individuals for diverse challenges.",
+      "price": "54.99"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/PYtX33R/Health.png",
+      "title": "Clean water for children",
+      "category": "health",
+      "category_bg": "#0052FF26",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Health is a state of physical, mental, and social well-being, not merely the absence of disease. It involves maintaining a balanced lifestyle, proper nutrition, and regular exercise. Mental health is integral, encompassing emotional resilience and psychological well-being. Overall, a holistic approach to health contributes to a fulfilling and active life.",
+      "price": "64.99"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/RNPRqFF/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Clothing is a form of personal expression and cultural identity, encompassing garments worn for protection, modesty, and style. It reflects individual taste, societal trends, and can convey a range of emotions and messages. From casual wear to formal attire, clothing serves both functional and aesthetic purposes, playing a significant role in shaping personal and social impressions.",
+      "price": "74.99"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/Sr13syf/Education.png",
+      "title": "Good education",
+      "category": "education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Education is a lifelong journey of acquiring knowledge, skills, and values. It occurs through formal institutions, like schools, and informal avenues, such as self-directed learning. Education fosters personal growth, critical thinking, and societal development, empowering individuals to navigate a dynamic world. It encompasses academic, social, and practical dimensions to prepare individuals for diverse challenges.",
+      "price": "84.99"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/d6wxnfw/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Food is essential for sustenance, providing nutrients and energy for the body. It comes in diverse forms, reflecting cultural, regional, and personal preferences. Nutrient-rich choices contribute to overall well-being, supporting physical and mental health. The enjoyment of food is a universal aspect of human experience, bringing people together in shared rituals and celebrations.",
+      "price": "94.99"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/RNPRqFF/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F ",
+      "description": "Clothing is a form of personal expression and cultural identity, encompassing garments worn for protection, modesty, and style. It reflects individual taste, societal trends, and can convey a range of emotions and messages. From casual wear to formal attire, clothing serves both functional and aesthetic purposes, playing a significant role in shaping personal and social impressions.",
+      "price": "104.99"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/PYtX33R/Health.png",
+      "title": "Clean water for children",
+      "category": "health",
+      "category_bg": "#0052FF26",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Health is a state of physical, mental, and social well-being, not merely the absence of disease. It involves maintaining a balanced lifestyle, proper nutrition, and regular exercise. Mental health is integral, encompassing emotional resilience and psychological well-being. Overall, a holistic approach to health contributes to a fulfilling and active life.",
+      "price": "114.99"
+    }
+  ]
+}
